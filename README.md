@@ -20,6 +20,8 @@ Output:
 ```text
 [!] Potential Prompt Injection Detected
 ```
+<img width="612" height="975" alt="Screenshot 2026-05-26 225835" src="https://github.com/user-attachments/assets/b57ccb29-df67-4ca4-b5ee-5649b82f690f" />
+
 
 ## Installation
 
